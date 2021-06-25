@@ -17,24 +17,24 @@ We now have internship and full time openings in both Shanghai and Boston. The d
 
 ## Selected Publications
 
-- Robust Multi-modal 3D Patient Body Modeling.[Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
+- Robust Multi-modal 3D Patient Body Modeling. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
   Fan Yang*, Ren Li*, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020. *equal contribution
 
-- Towards Contactless Patient Positioning.[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084097)<br>
+- Towards Contactless Patient Positioning. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084097)<br>
   Srikrishna Karanam*, Ren Li*, Fan Yang*, Wei Hu, Terrence Chen, Ziyan Wu.<br> 
   IEEE Transactions on Medical Imaging (T-MI), 2020. 
   *equal contribution
 
-- Dually Supervised Feature Pyramid for Object Detection and Segmentation.[Paper](https://arxiv.org/abs/1912.03730)|[Code](https://github.com/fyangneil/DSFPN)<br>
+- Dually Supervised Feature Pyramid for Object Detection and Segmentation. [Paper](https://arxiv.org/abs/1912.03730)|[Code](https://github.com/fyangneil/DSFPN)<br>
   Fan Yang, Cheng Lu, Yandong Guo, Longin Jan Latecki, Haibin Ling.<br> 
   Preprint, 2020.
   
-- Clustered Object Detection in Aerial Images. [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.html)|[Supp](https://www.researchgate.net/publication/335393286_ClusDet-supppdf)|[Code](https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image).<br> 
+- Clustered Object Detection in Aerial Images. [Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.html)|[Supp](https://www.researchgate.net/publication/335393286_ClusDet-supppdf)|[Code](https://github.com/fyangneil/Clustered-Object-Detection-in-Aerial-Image)<br> 
   Fan Yang, Heng Fan, Peng Chu, Erik Blasch, and Haibin Ling.<br>
   IEEE International Conference on Computer Vision (ICCV), 2019.
   
-- LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking. [Project](http://vision.cs.stonybrook.edu/~lasot/).<br> 
+- LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking. [Project](http://vision.cs.stonybrook.edu/~lasot/)<br> 
   Heng Fan*, Liting Lin*, Fan Yang*, Peng Chu*, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, and Haibin Ling.<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. 
   *equal contribution
