@@ -18,7 +18,7 @@ We now have internship and full time openings in both Shanghai and Boston. The d
 ## Selected Publications
 
 - Robust Multi-modal 3D Patient Body Modeling. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
-  **Fan Yang***, Ren Li*, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
+  **Fan Yang***, Ren Li *, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020. *equal contribution
 
 - Towards Contactless Patient Positioning. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084097)<br>
