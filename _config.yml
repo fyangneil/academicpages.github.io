@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fan Yang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Fan Yang"
 description              : &description "life is best, when it is a little strange"
