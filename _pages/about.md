@@ -21,7 +21,7 @@ We now have internship and full time openings in both Shanghai and Boston. The d
   Conference on Neural Information Processing Systems (NeurIPS), 2022.<br>
   *corresponding author
 - Robust Multi-modal 3D Patient Body Modeling. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
-  **Fan Yang**<sup>*</sup>, Ren Li<sup>*</sup>, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
+  **Fan Yang** <sup>*</sup>, Ren Li <sup>*</sup>, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020.<br>
   *equal contribution
 
