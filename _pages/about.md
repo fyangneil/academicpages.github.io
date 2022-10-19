@@ -16,17 +16,17 @@ We are working on developing vision-based technology for **automatic operating r
 We now have internship and full time openings in both Shanghai and Boston. The details of the position in Shanghai, please see [here](https://github.com/fyangneil/computer-vision-intern). For the position in Boston, you are referred to [here](http://wuziyan.com/).
 
 ## Selected Publications
-Forecasting Human Trajectory from Scene History. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)|[Code](https://github.com/MaKaRuiNah/SHENet)<br>
-  Mancheng Meng, Ziyan Wu, Terrence Chen, Xiran Cai, Xiang Sean Zhou, **Fan Yang**<sup>*</sup>, Dinggang Shen<sup>*</sup>. 
+- Forecasting Human Trajectory from Scene History. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)|[Code](https://github.com/MaKaRuiNah/SHENet)<br>
+  Mancheng Meng, Ziyan Wu, Terrence Chen, Xiran Cai, Xiang Sean Zhou, **Fan Yang**, Dinggang Shen.<br> 
   Conference on Neural Information Processing Systems (NeurIPS), 2022.<br>
   *corresponding author
 - Robust Multi-modal 3D Patient Body Modeling. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
-  **Fan Yang** <sup>*</sup>, Ren Li <sup>*</sup>, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
+  **Fan Yang**, Ren Li, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
   International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2020.<br>
   *equal contribution
 
 - Towards Contactless Patient Positioning. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084097)<br>
-  Srikrishna Karanam <sup>*</sup>, Ren Li<sup>*</sup>, **Fan Yang**<sup>*</sup>, Wei Hu, Terrence Chen, Ziyan Wu.<br> 
+  Srikrishna Karanam, Ren Li, **Fan Yang**, Wei Hu, Terrence Chen, Ziyan Wu.<br> 
   IEEE Transactions on Medical Imaging (T-MI), 2020.<br> 
   *equal contribution
 
