@@ -39,7 +39,7 @@ We now have internship and full time openings in both Shanghai and Boston. The d
   IEEE International Conference on Computer Vision (ICCV), 2019.
   
 - LaSOT: A High-quality Benchmark for Large-scale Single Object Tracking. [Project](http://vision.cs.stonybrook.edu/~lasot/)<br> 
-  Heng Fan*, Liting Lin*, **Fan Yang***, Peng Chu*, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, and Haibin Ling.<br>
+  Heng Fan *, Liting Lin *, **Fan Yang** *, Peng Chu *, Ge Deng, Sijia Yu, Hexin Bai, Yong Xu, Chunyuan Liao, and Haibin Ling.<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.<br> 
   *equal contribution
 
