@@ -17,7 +17,7 @@ We now have internship and full time openings in both Shanghai and Boston. The d
 
 ## Selected Publications
 - Forecasting Human Trajectory from Scene History. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)|[Code](https://github.com/MaKaRuiNah/SHENet)<br>
-  Mancheng Meng, Ziyan Wu, Terrence Chen, Xiran Cai, Xiang Sean Zhou, **Fan Yang**^*, Dinggang Shen. 
+  Mancheng Meng, Ziyan Wu, Terrence Chen, Xiran Cai, Xiang Sean Zhou, **Fan Yang**^*^, Dinggang Shen. 
   Conference on Neural Information Processing Systems (NeurIPS), 2022.<br>
   *corresponding author
 - Robust Multi-modal 3D Patient Body Modeling. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
