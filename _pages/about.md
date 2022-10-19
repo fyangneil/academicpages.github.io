@@ -26,7 +26,7 @@ We now have internship and full time openings in both Shanghai and Boston. The d
   *equal contribution
 
 - Towards Contactless Patient Positioning. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084097)<br>
-  Srikrishna Karanam*, Ren Li*, **Fan Yang***, Wei Hu, Terrence Chen, Ziyan Wu.<br> 
+  Srikrishna Karanam *, Ren Li *, **Fan Yang** *, Wei Hu, Terrence Chen, Ziyan Wu.<br> 
   IEEE Transactions on Medical Imaging (T-MI), 2020.<br> 
   *equal contribution
 
