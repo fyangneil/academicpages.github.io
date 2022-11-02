@@ -64,5 +64,5 @@ Reviewer for
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020, 2021, 2022.<br>
 - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020, 2021, 2022.<br>
 - International Conference on Learning Representations (ICLR), 2022, 2023.<br>
-- Conference on Neural Information Processing Systems (NeurIPS), 2022.
+- Advances in Neural Information Processing Systems (NeurIPS), 2022.
 
