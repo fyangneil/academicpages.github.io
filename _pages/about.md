@@ -16,9 +16,9 @@ We are working on developing vision-based technology for **automatic operating r
 We now have internship and full time openings in both Shanghai and Boston. The details of the position in Shanghai, please see [here](https://github.com/fyangneil/computer-vision-intern). For the position in Boston, you are referred to [here](http://wuziyan.com/).
 
 ## Selected Publications
-- Forecasting Human Trajectory from Scene History. [Paper](http://arxiv.org/abs/2210.08732)|[Code](https://github.com/MaKaRuiNah/SHENet)<br>
+- Forecasting Human Trajectory from Scene History. **Spotlight** [Paper](http://arxiv.org/abs/2210.08732)|[Code](https://github.com/MaKaRuiNah/SHENet)<br>
   Mancheng Meng, Ziyan Wu, Terrence Chen, Xiran Cai, Xiang Sean Zhou, **Fan Yang***, Dinggang Shen. <br> 
-  Advances in Neural Information Processing Systems (NeurIPS), 2022. **Spotlight**<br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2022. <br>
   *corresponding author
 - Robust Multi-modal 3D Patient Body Modeling. [Paper](https://www3.cs.stonybrook.edu/~hling/publication/3dbody-miccai20.pdf)<br>
   **Fan Yang*** , Ren Li*, Georgios Georgakis, Srikrishna Karanam, Terrence Chen, Haibin Ling, Ziyan Wu.<br>
